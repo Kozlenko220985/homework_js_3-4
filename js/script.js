@@ -123,6 +123,7 @@ button.value = 'Проверить мои результаты';
 button.style.marginTop = '30px';
 button.style.marginLeft = '530px';
 button.style.fontSize = '20px';
+button.style.padding = '20px';
 
 var form_button = document.querySelector ('form');
 form_button.appendChild (button);
